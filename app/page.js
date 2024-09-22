@@ -2,6 +2,6 @@ import Image from "next/image";
 
 export default function Home() {
   return (
-    <>chat App</>
+    <><h1>welcome</h1></>
   );
 }
